@@ -1,0 +1,10 @@
+# multiplication-of-two-numbers
+public class MultiplyTwoNumbers {
+    public static void main(String[] args) {
+        int num1 = 10, num2 = 5;
+        int product = num1 * num2;
+        System.out.println("Product: " + product);
+    }
+}
+output:
+Product: 50
